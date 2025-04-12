@@ -1,0 +1,39 @@
+h1 {
+  font-family: Kablammo, "Courier New", Courier, monospace;
+  text-align: center;
+  color: #026c7c;
+  font-size: 45px;
+  margin-bottom: 0;
+}
+
+.box {
+  display: flex;
+  margin-top: 20px;
+  align-items: center;
+}
+
+#description {
+  text-align: center;
+  margin-left: 25px;
+  margin-right: 25px;
+  border-radius: 15px;
+}
+
+.space {
+  margin-top: 5px;
+}
+.margin {
+  margin-left: 2px;
+}
+
+body {
+  background-image: url("image/Untitled.jpeg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.space {
+  margin: 0;
+}
